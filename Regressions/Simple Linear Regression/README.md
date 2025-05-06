@@ -16,7 +16,7 @@ To run the project locally, follow these steps:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/YarKolot/AIML/tree/main/Regressions/Simple%20Linear%20Regression
+git clone https://github.com/YarKolot/AIML/Regressions/Simple%20Linear%20Regression
 cd Simple Linear Regression
 ```
 
