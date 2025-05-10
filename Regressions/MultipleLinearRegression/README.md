@@ -12,7 +12,7 @@ To test the implementation locally, follow these steps:
 
 1. **Clone this repository:**
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/YarKolot/AIML/tree/main/Regressions/MultipleLinearRegression
    ```
 
 2. **Install dependencies:**
