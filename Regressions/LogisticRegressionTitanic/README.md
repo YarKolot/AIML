@@ -54,4 +54,4 @@ To test the implementation locally, follow these steps:
    python main.py
    ```
 
-   The main file will execute the script, perform the regression, and show you the results including the accuracy metrics, predictions, and comparisons.
+   The main file will execute the script, perform the regression, and show you the results including the accuracy metrics.
